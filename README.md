@@ -6,7 +6,7 @@ The project showcases multiple artworks/images arranged in two sections, with in
 👀 Live View
 
 You can view the website here:
-🔗 {   }
+🔗 https://faaliha22.github.io/Art_Gallery/
 
 📄 Pages
 
@@ -38,9 +38,9 @@ Clean and professional design
 
 📬 Contact
 
-GitHub: 
+GitHub: https://github.com/faaliha22
 
-Email: 
+Email: faaliha.m2025cse@sece.ac.in
 
 🙏 Thank You
 
